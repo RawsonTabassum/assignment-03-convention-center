@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.btn-plan {
+  background-color: #ffd7f1;
+}
+
+.bg-card-highlight {
+  background-color: #448fff;
+}
+
+.check-purple {
+  color: #5243c2;
+  font-size: 20px;
+  background-color: rgba(82, 67, 194, 0.103693);
+  border-radius: 10px;
+}
