@@ -3,7 +3,7 @@ body {
 }
 
 .btn-plan {
-  background-color: #ffd7f1;
+  background-color: #ffebf8;
 }
 
 .bg-card-highlight {
@@ -12,7 +12,42 @@ body {
 
 .check-purple {
   color: #5243c2;
-  font-size: 20px;
-  background-color: rgba(82, 67, 194, 0.103693);
+  font-size: 18px;
+  /* font-weight: 400; */
   border-radius: 10px;
+}
+
+.check-white {
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+.fw-semibold {
+  font-weight: 500;
+}
+
+.rounded-custom {
+  border-radius: 15px;
+}
+
+.start-85 {
+  left: 85%;
+}
+
+.shadow-blue {
+  box-shadow: 0 12px 7px -7px #6b88b9;
+}
+
+.border-blue {
+  border-left: 5px solid #448fff;
+}
+
+.fs-xs {
+  font-size: 10px;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: white;
 }
