@@ -7,7 +7,7 @@ body {
 }
 
 .fs-5px {
-  font-size: 5px;
+  font-size: 6px;
 }
 
 .bg-card-highlight {
@@ -64,4 +64,8 @@ body {
 .btn-icon-2 {
   height: 25px;
   width: 25px;
+}
+
+.btn-width {
+  width: 14rem;
 }
