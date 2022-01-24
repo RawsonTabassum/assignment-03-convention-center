@@ -51,3 +51,13 @@ body {
   text-decoration: none;
   color: white;
 }
+
+.btn-icon-1 {
+  height: 30px;
+  width: 30px;
+}
+
+.btn-icon-2 {
+  height: 25px;
+  width: 25px;
+}
