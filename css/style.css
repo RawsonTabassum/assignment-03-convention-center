@@ -6,6 +6,10 @@ body {
   background-color: #ffebf8;
 }
 
+.fs-5px {
+  font-size: 5px;
+}
+
 .bg-card-highlight {
   background-color: #448fff;
 }
